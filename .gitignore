@@ -1,7 +1,8 @@
-__pycache__/
 *.pyc
-.venv/
-venv/
-.pytest_cache/
 .DS_Store
+.ci-venv/
+.pytest_cache/
 .streamlit/secrets.toml
+.venv/
+__pycache__/
+venv/
